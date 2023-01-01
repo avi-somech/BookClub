@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    margin-left: 15px;
+    color: #050C4E;
+    font-size: 72px;    
+    font-family: 'Lobster', cursive;
+    /* margin-top: 10px; */
+}
+
+.navigation-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
